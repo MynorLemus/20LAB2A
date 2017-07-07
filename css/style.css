@@ -1,0 +1,141 @@
+.cen{
+	text-align: center;
+
+}
+.left{
+	text-align: left;
+}
+.right{
+	text-align: right;
+}
+.header{
+	background-color:#4f4f4f;
+	height: 234px;
+}
+
+.bot{
+	background-color:#454143;
+	color:white; 
+	font-size: 10px;
+	border: none;
+	text-align: center;
+	height: 40px;
+}
+
+.ruw{
+		background-color:#454143;
+}
+
+.text1{
+	font-size: 27px;
+	color: white;
+
+}
+
+.text2{
+	font-size: 17px;
+	color: white;
+
+}
+
+.img1{
+	height:100px;
+	border-radius: 50px; 
+
+}
+
+.header1{
+	background-color: #FAFAFA;
+	height: auto;
+}
+
+.img2{
+	width: 110px;
+}
+
+.cont{
+	background-color:#ffffff; 
+}
+
+.bot1{
+	background-color: #00bfd3;
+	width: 200px;
+	border: none;
+	color: white;
+	height: 40px;
+}
+
+.text4{
+	font-size: 27px;
+	color: black;
+}
+
+.skills {
+    text-align: right; /* Right-align text */
+    padding-right: 0px; /* Add some right padding */
+    line-height: 40px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
+    color: white; /* White text color */
+
+}
+
+.html {
+	
+	background-color: #2196F3;
+	height: 10px;
+}
+
+.cont{
+	 width: 100%; /* Full width */
+    background-color: #ddd; /* Grey background */
+}
+
+.t1{
+	background-color:#4f4f4f;
+	height: auto;
+	border: 3px solid white;
+}
+
+.t2{
+	background-color:white;
+	height: auto;
+	border: 3px solid white;
+}
+
+.text5{
+	font-size: 27px;
+	color: black;
+}
+
+.text7{
+	font-size: 27px;
+	color: white;
+}
+
+.text6{
+	font-size: 15px;
+	color: black;
+}
+
+.text8{
+	font-size: 15px;
+	color: white;
+}
+
+.text9{
+	font-size: 30px;
+	color: black;
+	font-weight: bolder;
+}
+
+.bot3{
+	height: 20px;
+	color: black;
+	background-color:#ffffff; 
+	font-size: 12px;
+	border: none;
+	font-weight: bold; 
+}
+
+.bot3:hover{
+	border-bottom: 3px solid skyblue; 
+}
